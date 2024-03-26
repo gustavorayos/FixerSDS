@@ -30,6 +30,5 @@ FixerSDS can be run locally on from a network location. Just copy the entire dir
 
 * Hat tip to developers and posters on forums (Stack Overflow, Reddit, YouTube, etc)
 * Inspiration
-* etc
 
 ![Fixer_SDS_Screenshot](https://github.com/gustavorayos/FixerSDS/assets/8792052/e5e4fbbc-be0c-4411-899f-30effed77bc3)
