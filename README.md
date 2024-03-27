@@ -31,4 +31,17 @@ FixerSDS can be run locally on from a network location. Just copy the entire dir
 * Hat tip to developers and posters on forums (Stack Overflow, Reddit, YouTube, etc)
 * Inspiration
 
+## Screenshots
+
+User Interface
+
 ![Fixer_SDS_Screenshot](https://github.com/gustavorayos/FixerSDS/assets/8792052/e5e4fbbc-be0c-4411-899f-30effed77bc3)
+
+Before running FixerSDS SCAP score 
+
+![RHEL-PreSTIG-SCAP](https://github.com/gustavorayos/FixerSDS/assets/8792052/978c0b32-074f-488b-9f25-7ec9c5f90176)
+
+After running FixerSDS SCAP score
+
+![RHEL-PostSTIG-SCAP](https://github.com/gustavorayos/FixerSDS/assets/8792052/a45410ba-f24a-4bfd-802f-6c7d71e693ff)
+
